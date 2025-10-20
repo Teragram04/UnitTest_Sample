@@ -6,5 +6,5 @@ def fibonacci(n):
     return fib_sequence[:n]
 
 # Example usage:
-print(fibonacci(10))
+#print(fibonacci(10))
 
