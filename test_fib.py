@@ -1,4 +1,6 @@
 #From chatGPT
+
+from fib.py import fibonacci
 def test_fibonacci():
     # Test case 1: First 1 Fibonacci number
     assert fibonacci(1) == [0], "Test case 1 failed"
